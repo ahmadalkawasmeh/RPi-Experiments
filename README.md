@@ -1,8 +1,12 @@
 # SYSC3010 Labs Repository for *Ahmad Alkawasmeh*
 ## Lab1
-Lab1 is about... *add description*
+Lab1 is about understanding the fundementals of working with the RaspberryPi which consists of: 
+ - Flashing the Raspian OS on the SD card and setting up the RaspberryPi by;
+ - Interfacing with it through the desktop gui and SSH CLI
+ - Learning the basics of using the SenseHAT and running python scripts
+ - Grasping the essentials of GitHub commit, push, clone 
 
-*Link to Lab1/readme.md to be created as part of Lab1*
+[*Link to Lab1/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/tree/main/Lab1#readme)
 
 ## Lab2 
 Lab2 is about... *add description*
