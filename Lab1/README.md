@@ -1,6 +1,6 @@
 # SYSC3010 Lab1 Deliverables
 
-##The deliverables consist of:
+## The deliverables consist of:
 
 ### 1. `showmyname.py`
    - A Python script that scrolls through my first and last name, running forever.
