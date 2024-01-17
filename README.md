@@ -9,9 +9,16 @@ Lab1 is about understanding the fundementals of working with the RaspberryPi whi
 [*Link to Lab1/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/tree/main/Lab1#readme)
 
 ## Lab2 
-Lab2 is about... *add description*
+Lab2 is about learning how to utilize databases on the RaspberryPi through:
+ - Spinning up a local SQLite3 database
+ - Creating tables in the databse and storing data in them
+ - Executing queries on the stored data and tables
+ - Accessing the database through Python;
+ - Executing queries through Python
+ - Learning about cloud databases
+ - Interperting JSON messages as data structures
 
-*Link to Lab2/readme.md to be created as part of Lab2*
+[*Link to Lab2/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/tree/main/Lab2#readme)
 
 ## Lab3 
 Lab3 is about... *add description*
