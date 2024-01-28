@@ -21,9 +21,16 @@ Lab2 is about learning how to utilize databases on the RaspberryPi through:
 [*Link to Lab2/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/tree/main/Lab2#readme)
 
 ## Lab3 
-Lab3 is about... *add description*
+Lab3 is about learning how to use Web Sockets and Real Time Databases through: 
+ - Creating a Python virtual environment and installing the required module libraries 
+ - Setting up a Firebase Real Time Databse
+ - Learning how to interact with the Firebase DB
+ - Writing Python scripts to read and write data from/to the Firebase DB
+ - Developing a dynamic website running on a Flask web server;
+ - Enabling remote control of the Raspberry Pi's Sense Hat LEDs
+ - A tutorial on website GUI development 
 
-*Link to Lab3/readme.md to be created as part of Lab3*
+[*Link to Lab3/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab3/README.md) 
 
 ## Lab4
 Lab4 is about... *add description*
