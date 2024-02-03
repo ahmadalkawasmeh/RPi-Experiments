@@ -33,9 +33,15 @@ Lab3 is about learning how to use Web Sockets and Real Time Databases through:
 [*Link to Lab3/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab3/README.md) 
 
 ## Lab4
-Lab4 is about... *add description*
+Lab4 is about learning how to safely add hardware to the Raspberry Pi and becoming familiar with GitHub issue tracking by:
+ - Connecting a set of LEDs and a button to the Raspberry Pi through a breadboard
+ - Controlling the LEDs and button through a set of GPIO pins 
+ - Programming the button to perform a certain functionality when pressed
+ - Writing a program to simulate a traffic light and crosswalk button
+ - Extending the mini-project repo by creating issues for each team member to work on 
+ - Linking a pull request to an issue such that it adds more context to an issue and the code that was changed in relation to it 
 
-*Link to Lab4/readme.md to be created as part of Lab4*
+[*Link to Lab4/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab4/README.md) 
 
 ## Lab5
 Lab5 is about... *add description*
