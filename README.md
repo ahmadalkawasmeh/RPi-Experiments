@@ -44,9 +44,13 @@ Lab4 is about learning how to safely add hardware to the Raspberry Pi and becomi
 [*Link to Lab4/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab4/README.md) 
 
 ## Lab5
-Lab5 is about... *add description*
+Lab5 is about learning how to work with the PiCam through: 
+- Capturing images from the PiCam V2 through the Raspberry Pi
+- Learning image manipulation and computer vision to interpret images
+- Learning edge vs cloud computing 
+- Applying all the acquired knowledge to build a security system
 
-*Link to Lab5/readme.md to be created as part of Lab5*
+[*Link to Lab5/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab5/README.md) 
 
 ## Lab6
 Lab6 is about... *add description*
