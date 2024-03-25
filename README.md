@@ -50,7 +50,7 @@ Lab5 is about learning how to work with the PiCam through:
 - Learning edge vs cloud computing 
 - Applying all the acquired knowledge to build a security system
 
-[*Link to Lab5/readme.md*](https://github.com/SYSC3010-W24/ahmadalkawasmeh/RPi-Experiments/blob/main/Lab5/README.md) 
+[*Link to Lab5/readme.md*](https://github.com/ahmadalkawasmeh/RPi-Experiments/blob/main/Lab5/README.md) 
 
 
 ### Useful links and resources for the SYSC3010 labs:
