@@ -52,10 +52,6 @@ Lab5 is about learning how to work with the PiCam through:
 
 [*Link to Lab5/readme.md*](https://github.com/SYSC3010-W24/sysc3010-labs-ahmadalkawasmeh/blob/main/Lab5/README.md) 
 
-## Lab6
-Lab6 is about... *add description*
-
-*Link to Lab6/readme.md to be created as part of Lab6*
 
 ### Useful links and resources for the SYSC3010 labs:
  - [GitHub Starter Course Page with useful links](GitHubStarter.md) *(Provided by GitHub Classroom staff)*
